@@ -1,4 +1,4 @@
-# patientlikeme.com
+# Collaborative Filtering Based Patient Social Network
 
 > My fantastic Nuxt.js project
 
