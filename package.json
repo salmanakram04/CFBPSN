@@ -1,0 +1,23 @@
+{
+  "name": "patientlikeme.com",
+  "version": "1.0.0",
+  "description": "My fantastic Nuxt.js project",
+  "author": "Web",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "firebase": "^7.18.0",
+    "jquery": "^3.5.1",
+    "moment": "^2.27.0",
+    "nuxt": "^2.0.0",
+    "vue": "^2.6.12",
+    "vue-server-renderer": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "devDependencies": {}
+}
